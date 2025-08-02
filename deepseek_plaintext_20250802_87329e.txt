@@ -1,8 +1,0 @@
-/ai-auto-pilot/  
-│── ai-auto-pilot.php          (Main plugin file)  
-│── /includes/  
-│   ├── class-ai-generator.php (Handles OpenAI API)  
-│   ├── class-pinterest.php    (Pinning logic)  
-│   ├── class-scheduler.php    (WP Cron jobs)  
-│── /assets/                   (JS/CSS for admin UI)  
-│── /templates/                (Optional: Dashboard templates)  
